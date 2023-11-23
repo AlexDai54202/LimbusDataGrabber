@@ -1,0 +1,12 @@
+# ignore everything #
+*
+
+# do not ignore gitignore file
+!.gitignore
+
+# also do not ignore these specific files:
+!/Json
+!/Json/*Personalities*
+!/Json/*personality*
+!/Json/EN_Skills*
+!*.py
