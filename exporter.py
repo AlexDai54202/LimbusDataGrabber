@@ -2,7 +2,7 @@ import pandas as pd
 from module import *
 
 ### Units
-
+# dear god please do not take this code seriously I wrote it like 6 months ago in a delirious state and couldn't be fucked to use any proper packages
 identity_output = ('id,name,rarity,affiliation,hp,def,minspeed,maxspeed,staggerperiods,slashres,pierceres,bluntres,')
 identity_output += "s1ID,"
 identity_output += "s1ID,".replace('1','2')
